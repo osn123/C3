@@ -1,4 +1,4 @@
-#include <iomanip>  // 追加: setprecisionを使用するために必要
+#include <iomanip>  // 
 #include <iostream>
 
 using namespace std;
