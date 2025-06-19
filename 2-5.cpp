@@ -12,7 +12,7 @@ class Vec2 {
   }
   Vec2(float x_,float y_) :_x(x_), _y(y_) {}
 
-  int x() { return static_cast<int>(_x); }
+  int x() { return _x; }
 };
 
 int main() {

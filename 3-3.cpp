@@ -16,5 +16,5 @@ int Object::uid_ = 0;
 int main() {
   Object a, b, c;
   cout << "生成したオブジェクト数" << Object::uid() << endl;
-  cout << a.id() << b.id() << c.id() << endl;
+  cout << a.id() << " " << b.id() << " " << c.id() << endl;
 }

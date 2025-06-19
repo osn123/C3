@@ -11,7 +11,7 @@ class Vec2 {
     _x = 0;
     _y = 0; 
   }
-  int x() { return static_cast<int>(_x);
+  int x() { return _x;
   }
 };
 

@@ -3,8 +3,6 @@ using namespace std;
 
 class  Vec2{
   int x_, y_;
-
-
  public:
   int getX() const { return x_; }
   int getY() const { return y_; }
